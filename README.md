@@ -4,5 +4,6 @@
 
 1. Understand Probablilty
 2. Understand Statistics
+
 3.Understand Linear Algebra
 
